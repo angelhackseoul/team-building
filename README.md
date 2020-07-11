@@ -16,3 +16,6 @@ Please ask to #helpme channel on Slack if you have some questions about this.
 * Please click into [Issues](https://github.com/angelhackseoul/team-building/issues) on the top of this repository.
 3. `New Issue` 버튼으로 아이디어를 등록해주시거나 검색을 통해 찾아주세요!
 * Register your idea by clicking `New Issue` or find the ideas of others!
+4. [자세한 사용 방법은 여기를 참조해주세요.](https://docs.google.com/document/d/1oFthnJZ10b0ibjh3qItRRn_wngIYN74QkIsuzqmbcy8)
+* [Click this link for detailed description.](https://docs.google.com/document/d/1oFthnJZ10b0ibjh3qItRRn_wngIYN74QkIsuzqmbcy8)
+
