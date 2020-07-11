@@ -9,5 +9,5 @@ If you have an idea, you can share your thoughts through participants. If not, y
 ## How to Post
 
 1. Github에 Login해주세요. 만약 계정이 없다면, 우선 Sign up을 진행해주세요.
-2. 이 Repository 상단의 `Issues`를 눌러주세요.
+2. 이 Repository 상단의 [Issues를 눌러주세요.](https://github.com/angelhackseoul/team-building/issues)
 3. `New Issue` 버튼으로 아이디어를 등록해주시거나 검색을 통해 찾아주세요!
