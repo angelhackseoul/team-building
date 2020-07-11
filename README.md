@@ -11,5 +11,8 @@ Please ask to #helpme channel on Slack if you have some questions about this.
 ## How to Post
 
 1. Github에 Login해주세요. 만약 계정이 없다면, 우선 Sign up을 진행해주세요.
+   Please login to GitHub. You might be required to sign up if you do not have GitHub account.
 2. 이 Repository 상단의 [Issues를 눌러주세요.](https://github.com/angelhackseoul/team-building/issues)
+   Please click into [Issues](https://github.com/angelhackseoul/team-building/issues) on the top of this repository.
 3. `New Issue` 버튼으로 아이디어를 등록해주시거나 검색을 통해 찾아주세요!
+   Register your idea by clicking `New Issue` or find the ideas of others!
