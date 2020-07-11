@@ -1,10 +1,12 @@
 # AngelHack Seoul 2020 Online Team Building
 
 Github Issues를 이용해서 팀 빌딩을 진행합니다! 
-혹시 아이디어가 있다면 자신의 아이디어를 홍보할 수 있고, 아이디어가 없다면 살펴보면서 내가 들어갈 팀을 찾아볼 수 있어요.
+아이디어가 있다면 자신의 아이디어를 홍보할 수 있고, 아이디어가 없다면 살펴보면서 내가 들어갈 팀을 찾아볼 수 있어요.
+혹시 사용이 어려우시거나 질문이 있다면 Slack의 #helpme 에 문의해주세요!
 
 Let's build your team with Github Issues!
 If you have an idea, you can share your thoughts through participants. If not, you can seek some great idea which you can involve!
+Please ask to #helpme channel on Slack if you have some questions about this.
 
 ## How to Post
 
